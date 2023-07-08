@@ -2,6 +2,7 @@
 
 /**
  * binary_tree_is_root - check if node is a root of a binary tree
+ * 
  * @node: A pointer to the node to check
  * Return: if node is a root - 1
  *         else - 0
